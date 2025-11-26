@@ -13,8 +13,3 @@ A Power Net é uma empresa fictícia que oferece soluções completas em **elét
 - **Bootstrap 5.3**
 - Google Fonts  
 - Design responsivo e moderno
-
----
-
-## 📂 Estrutura do projeto
-
